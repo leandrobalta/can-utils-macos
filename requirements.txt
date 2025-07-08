@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Biblioteca principal para comunicação com o barramento CAN
+python-can>=4.0
+
+# Dependência para a interface SLCAN via porta serial
+pyserial
